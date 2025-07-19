@@ -1,0 +1,8 @@
+flask
+requests
+python-dotenv
+selenium
+tensorflow
+pandas
+numpy
+webdriver-manager
